@@ -13,7 +13,7 @@ The user is able to:
   * Filter the users by user's name.
 
 
-![Employee Directory demo](React-App.gif)
+![Employee Directory demo](public/assets/img/React-App.gif)
 
 ## Link:
 [Application Page](https://lionhatt-employee-directory.herokuapp.com/)
